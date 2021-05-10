@@ -1,0 +1,15 @@
+{
+  "name": "vite-dynamic-import-polyfill-example",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "dynamic-import-polyfill": "^0.1.1"
+  },
+  "devDependencies": {
+    "vite": "../vite/packages/vite"
+  }
+}
