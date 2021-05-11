@@ -1,10 +1,10 @@
 # vite-dynamic-import-polyfill-example
 
-This is an example repo demosturates the configurations of [GoogleChromeLabs/dynamic-import-polyfill](https://github.com/GoogleChromeLabs/dynamic-import-polyfill) with Vite v2.3.x.
+This is an example repo demosturates the configurations of [GoogleChromeLabs/dynamic-import-polyfill](https://github.com/GoogleChromeLabs/dynamic-import-polyfill) with [Vite v2.3.x](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#230-2021-05-11)
 
 ## Procedures
 
-You can follow these setup to install it manually in your project:
+You can follow this setup to install it manually in your project:
 
 Install [dynamic-import-polyfill](https://github.com/GoogleChromeLabs/dynamic-import-polyfill)
 

@@ -11,10 +11,5 @@ export default defineConfig({
         }
       }
     }
-  ],
-  server: {
-    fsServe: {
-      root: '..'
-    }
-  }
+  ]
 })
