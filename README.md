@@ -1,3 +1,7 @@
+[DEPRECATED] See https://github.com/vitejs/vite/pull/3434
+
+---
+
 # vite-dynamic-import-polyfill-example
 
 This is an example repo demosturates the configurations of [GoogleChromeLabs/dynamic-import-polyfill](https://github.com/GoogleChromeLabs/dynamic-import-polyfill) with [Vite v2.3.x](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#230-2021-05-11)
